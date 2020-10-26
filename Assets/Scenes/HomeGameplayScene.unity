@@ -643,12 +643,12 @@ MonoBehaviour:
   Days: 0
   Years: 0
   Level: 0
-  SRCreature: {fileID: 0}
-  SRSecondary: {fileID: 0}
-  SRBackdrop: {fileID: 0}
-  BtnPlay: {fileID: 0}
-  BtnFeed: {fileID: 0}
-  BtnClean: {fileID: 0}
+  SRCreature: {fileID: 580609841}
+  SRSecondary: {fileID: 281222046}
+  SRBackdrop: {fileID: 803053291}
+  BtnPlay: {fileID: 603502080}
+  BtnFeed: {fileID: 781822160}
+  BtnClean: {fileID: 1239724209}
   JustFed: 0
   JustPooped: 0
 --- !u!1 &603502078
