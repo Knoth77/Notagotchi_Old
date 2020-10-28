@@ -236,7 +236,7 @@ public class Mood : MonoBehaviour {
                 Happiness = 100 + _levelMod;
             }
 
-            SRSecondary.sprite = new Sprite();
+            SRSecondary.sprite = null;
             JustPooped = false;
             PoopIndex = 0;
         }
